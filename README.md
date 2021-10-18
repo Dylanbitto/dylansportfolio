@@ -1,7 +1,7 @@
 # dylansportfolio
 
 ##Purpose
-A website to show of my skills to employers.
+#A website to show of my skills to employers.
 
 ##Built With
 * HTML
