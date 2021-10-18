@@ -1,13 +1,13 @@
 # dylansportfolio
 
-##Purpose
-#A website to show of my skills to employers.
+## Purpose
+A website to show of my skills to employers.
 
-##Built With
+## Built With
 * HTML
 * CSS
 
-##Website
+## Website
 https://dylanbitto.github.io/dylansportfolio/
 
 ##
